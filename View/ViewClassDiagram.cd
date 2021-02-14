@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="View.Game.ViewGame">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAAAgAgIAABAAAgAAAAAAAAAACQAAAAACEAiBAAA=</HashCode>
+      <FileName>Game\ViewGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Game.ViewGameObject">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Game\ViewGameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Game.ViewWalls">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Game\ViewWalls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.ViewMenu">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAAAABAAAAAAACAAAAEAAAAAIAAAAAAAAECAAYAA=</HashCode>
+      <FileName>Menu\ViewMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.ViewMenuItem">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Menu\ViewMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.ViewSubMenuItem">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ViewSubMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ViewBase">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
