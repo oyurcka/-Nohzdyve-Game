@@ -32,10 +32,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ConsoleHelper">
-      <HintPath>..\NohzdyveConsole\bin\Debug\ConsoleHelper.dll</HintPath>
+      <HintPath>.\ConsoleHelper.dll</HintPath>
     </Reference>
     <Reference Include="FastOutput">
-      <HintPath>..\NohzdyveConsole\bin\Debug\FastOutput.dll</HintPath>
+      <HintPath>.\FastOutput.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
